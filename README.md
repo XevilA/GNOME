@@ -23,13 +23,13 @@ To get started with OpenGnomeX, follow these simple steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/opengnomex.git
+    git clone https://github.com/XevilA/GNOME.git
     ```
 
 2. **Navigate to the Directory**:
 
     ```bash
-    cd opengnomex
+    cd GNOME
     ```
 
 3. **Install Dependencies**:
@@ -81,7 +81,7 @@ OpenGnomeX is licensed under the [MIT License](LICENSE).
 
 ## 💬 Contact
 
-For any questions or feedback, please reach out to us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please reach out to us at [tirawatnantamas](mailto:tirawatnantamas.com).
 
 ---
 
